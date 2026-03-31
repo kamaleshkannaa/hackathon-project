@@ -119,3 +119,8 @@ WebSocket = Live Announcement System
 👉 “We are building a grocery app where users can browse products, add to cart, and order.
 Backend handles logic and stores data in MySQL.
 The key feature is real-time inventory using WebSockets — when stock changes, all users see updates instantly.”
+
+
+
+git clone https://github.com/kamaleshkannaa/hackathon-project.git
+cd hackathon-project
